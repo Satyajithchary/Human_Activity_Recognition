@@ -19,7 +19,7 @@ This repository contains Python code for performing **Human Activity Recognition
 
 ## 💡 Usage:
 
-1. **Clone the Repository:** `git clone https://github.com/yourusername/Human_Activity_Recognition.git`
+1. **Clone the Repository:** `git clone https://github.com/Satyajithchary/Human_Activity_Recognition.git`
 2. **Prepare Your Data:** Organize sensor data according to the expected input format.
 3. **Configure Parameters:** Adjust hyperparameters and model architecture in the provided code to fit your dataset and requirements.
 4. **Train the Model:** Run the training script to train the CNN model with your prepared data.
